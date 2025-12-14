@@ -35,7 +35,7 @@ pip install pyxel
 
 ```
 
- 
+**Make sure to have the res.pyxres in the same folder as the main file!**
 
 Run the program:
 
